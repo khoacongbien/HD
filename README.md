@@ -1,6 +1,6 @@
 # Hướng dẫn nhanh sử dụng Pandas trong Python
 
-Pandas là một thư viện mạnh mẽ trong Python được sử dụng để phân tích và xử lý dữ liệu. Dưới đây là hướng dẫn nhanh để bắt đầu sử dụng Pandas.
+123 Pandas là một thư viện mạnh mẽ trong Python được sử dụng để phân tích và xử lý dữ liệu. Dưới đây là hướng dẫn nhanh để bắt đầu sử dụng Pandas.
 
 ## Cài đặt Pandas
 
